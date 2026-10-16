@@ -1,12 +1,12 @@
-<h1 align="center">Hi there 👋 I'm yhx</h1>
+<h1 align="center">Hi there 👋 I'm Harrison Yin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Embedded+%2F+IoT+Developer;ESP32+%2B+OLED+Enthusiast;Making+small+screens+do+cool+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3410047827yhx-sketch&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <a href="https://github.com/3410047827yhx-sketch?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=itsyhx&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/itsyhx?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-ESP32_|_IoT_|_OLED-58A6FF?style=flat-square" alt="Focus" />
   </a>
 </p>
@@ -22,9 +22,9 @@
 
 | Project | Description |
 |---------|-------------|
-| 📟 [esp32-oled-hub](https://github.com/3410047827yhx-sketch/esp32-oled-hub) | Phone-configurable OLED hub: MQTT, Home Assistant, BLE notifications, weather & calendar |
-| 🦖 [oled-dino-game](https://github.com/3410047827yhx-sketch/oled-dino-game) | Chrome Dino-style game on a 128x64 OLED, controlled by the BOOT button |
-| 📊 [codex-oled-monitor](https://github.com/3410047827yhx-sketch/codex-oled-monitor) | Live Codex task status & progress on an ESP32-S3 OLED |
+| 📟 [esp32-oled-hub](https://github.com/itsyhx/esp32-oled-hub) | Phone-configurable OLED hub: MQTT, Home Assistant, BLE notifications, weather & calendar |
+| 🦖 [oled-dino-game](https://github.com/itsyhx/oled-dino-game) | Chrome Dino-style game on a 128x64 OLED, controlled by the BOOT button |
+| 📊 [codex-oled-monitor](https://github.com/itsyhx/codex-oled-monitor) | Live Codex task status & progress on an ESP32-S3 OLED |
 
 ## 🧰 Tech Stack
 
@@ -40,22 +40,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3410047827yhx-sketch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3410047827yhx-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsyhx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyhx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=3410047827yhx-sketch&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itsyhx&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3410047827yhx-sketch&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsyhx&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3410047827yhx-sketch/3410047827yhx-sketch/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3410047827yhx-sketch/3410047827yhx-sketch/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/3410047827yhx-sketch/3410047827yhx-sketch/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsyhx/itsyhx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsyhx/itsyhx/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/itsyhx/itsyhx/output/github-contribution-grid-snake.svg" />
 </picture>
